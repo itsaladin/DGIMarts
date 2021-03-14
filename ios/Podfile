@@ -3,7 +3,7 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 
 platform :ios, '10.0'
 
-target 'Parcel_and_Courier_Management_System' do
+target 'DGIMarts' do
   config = use_native_modules!
 
   use_react_native!(:path => config["reactNativePath"])
@@ -12,7 +12,7 @@ target 'Parcel_and_Courier_Management_System' do
 
   pod 'BVLinearGradient', :path => '../node_modules/react-native-linear-gradient'
 
-  target 'Parcel_and_Courier_Management_SystemTests' do
+  target 'DGIMartsTests' do
     inherit! :complete
     # Pods for testing
   end
@@ -27,10 +27,10 @@ target 'Parcel_and_Courier_Management_System' do
   end
 end
 
-target 'Parcel_and_Courier_Management_System-tvOS' do
-  # Pods for Parcel_and_Courier_Management_System-tvOS
+target 'DGIMarts-tvOS' do
+  # Pods for DGIMarts-tvOS
 
-  target 'Parcel_and_Courier_Management_System-tvOSTests' do
+  target 'DGIMarts-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface Parcel_and_Courier_Management_SystemTests : XCTestCase
+@interface DGIMartsTests : XCTestCase
 
 @end
 
-@implementation Parcel_and_Courier_Management_SystemTests
+@implementation DGIMartsTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {

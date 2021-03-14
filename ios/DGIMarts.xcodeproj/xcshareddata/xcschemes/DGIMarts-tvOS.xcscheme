@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "Parcel_and_Courier_Management_System-tvOS.app"
-               BlueprintName = "Parcel_and_Courier_Management_System-tvOS"
-               ReferencedContainer = "container:Parcel_and_Courier_Management_System.xcodeproj">
+               BuildableName = "DGIMarts-tvOS.app"
+               BlueprintName = "DGIMarts-tvOS"
+               ReferencedContainer = "container:DGIMarts.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "Parcel_and_Courier_Management_System-tvOSTests.xctest"
-               BlueprintName = "Parcel_and_Courier_Management_System-tvOSTests"
-               ReferencedContainer = "container:Parcel_and_Courier_Management_System.xcodeproj">
+               BuildableName = "DGIMarts-tvOSTests.xctest"
+               BlueprintName = "DGIMarts-tvOSTests"
+               ReferencedContainer = "container:DGIMarts.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Parcel_and_Courier_Management_System-tvOS.app"
-            BlueprintName = "Parcel_and_Courier_Management_System-tvOS"
-            ReferencedContainer = "container:Parcel_and_Courier_Management_System.xcodeproj">
+            BuildableName = "DGIMarts-tvOS.app"
+            BlueprintName = "DGIMarts-tvOS"
+            ReferencedContainer = "container:DGIMarts.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Parcel_and_Courier_Management_System-tvOS.app"
-            BlueprintName = "Parcel_and_Courier_Management_System-tvOS"
-            ReferencedContainer = "container:Parcel_and_Courier_Management_System.xcodeproj">
+            BuildableName = "DGIMarts-tvOS.app"
+            BlueprintName = "DGIMarts-tvOS"
+            ReferencedContainer = "container:DGIMarts.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "Parcel_and_Courier_Management_System";
+    return "DGIMarts";
   }
 }

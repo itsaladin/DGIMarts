@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "Parcel_and_Courier_Management_System.app"
-               BlueprintName = "Parcel_and_Courier_Management_System"
-               ReferencedContainer = "container:Parcel_and_Courier_Management_System.xcodeproj">
+               BuildableName = "DGIMarts.app"
+               BlueprintName = "DGIMarts"
+               ReferencedContainer = "container:DGIMarts.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "Parcel_and_Courier_Management_SystemTests.xctest"
-               BlueprintName = "Parcel_and_Courier_Management_SystemTests"
-               ReferencedContainer = "container:Parcel_and_Courier_Management_System.xcodeproj">
+               BuildableName = "DGIMartsTests.xctest"
+               BlueprintName = "DGIMartsTests"
+               ReferencedContainer = "container:DGIMarts.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Parcel_and_Courier_Management_System.app"
-            BlueprintName = "Parcel_and_Courier_Management_System"
-            ReferencedContainer = "container:Parcel_and_Courier_Management_System.xcodeproj">
+            BuildableName = "DGIMarts.app"
+            BlueprintName = "DGIMarts"
+            ReferencedContainer = "container:DGIMarts.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Parcel_and_Courier_Management_System.app"
-            BlueprintName = "Parcel_and_Courier_Management_System"
-            ReferencedContainer = "container:Parcel_and_Courier_Management_System.xcodeproj">
+            BuildableName = "DGIMarts.app"
+            BlueprintName = "DGIMarts"
+            ReferencedContainer = "container:DGIMarts.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
