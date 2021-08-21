@@ -25,6 +25,7 @@ export const VerifyAccScreen = ({navigation}: {navigation: any}) => {
   const [password, setPassword] = useState('');
 
   const csStyles = StyleSheet.create({
+    //common styles
     backIcon: {
       position: 'absolute',
       top: 20,
